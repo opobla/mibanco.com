@@ -1,6 +1,7 @@
 mibanco.com
 ===========
 
+Aquí va la documentación que estamos haciendo de forma conjunta
 
 Grupo1
 ------
