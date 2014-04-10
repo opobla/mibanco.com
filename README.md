@@ -1,5 +1,5 @@
-Documentación de mibanco.com
-===========
+Texto definitivo
+================
 
 Aquí va la documentación que estamos haciendo de forma conjunta
 
@@ -9,6 +9,8 @@ Grupo 1 al poder.
 
 Grupo2
 ------
+Documentación externa
+
 
 documentar no se que cosa
 Grupo3
@@ -17,8 +19,8 @@ Grupo3
 Modificación grupo 3
 Grupo4
 ------
+prueba del grupo 4
 
-documentar no se que cosa
 Grupo5
 ------
 
