@@ -5,8 +5,7 @@ Aquí va la documentación que estamos haciendo de forma conjunta
 
 Grupo1
 ------
-
-documentar no se que cosa
+Grupo 1 al poder.
 
 Grupo2
 ------
