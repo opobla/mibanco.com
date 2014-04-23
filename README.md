@@ -1,20 +1,22 @@
 mibanco.com
 ===========
 
+Aquí va la documentación que estamos haciendo de forma conjunta
 
 Grupo1
 ------
-
-documentar no se que cosa
+Grupo 1 al poder.
 
 Grupo2
 ------
+Documentación externa
+
 
 documentar no se que cosa
 Grupo3
 ------
 
-documentar no se que cosa
+Modificación grupo 3
 Grupo4
 ------
 prueba del grupo 4
