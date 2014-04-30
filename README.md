@@ -4,8 +4,7 @@ mibanco.com
 
 Grupo1
 ------
-
-documentar no se que cosa
+Grupo 1 al poder.
 
 Grupo2
 ------
