@@ -1,4 +1,4 @@
-Texto definitivo
+﻿Texto definitivo
 ================
 
 Aquí va la documentación que estamos haciendo de forma conjunta
@@ -28,7 +28,7 @@ documentar no se que cosa
 Grupo6
 ------
 
-documentar no se que cosa
+POR FIN!!!
 Grupo7
 ------
 
